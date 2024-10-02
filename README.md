@@ -1,7 +1,8 @@
 <div id="header" align="center"> 
 <h1>Hi! I'm Vladislav. 👋</h1>
 <h3>Linux administrator and a junior DevOps engineer from Moscow</h3>
-
+</div>
+<div id="body" align="center"> 
 <h4>Languages & Tools:</h4>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" with="60" height="60" />&nbsp;
