@@ -1,6 +1,6 @@
 ## Hi! I'm Vladislav. 👋
 
-<div id="header" align="center">I like working on Linux and writing Bash scripts. I also like to understand programming languages like Python and Go.  There is always music playing somewhere nearby, sometimes it is written by me, so music sometimes counts with programming. I can be called an inquisitive person, I like to explore new technologies, at the moment it's DevOps, Infrastructure as Code and everything related to it. Docker, Terraform, Ansible and so on.
+<div id="header" align="center">I like working on Linux and writing Bash scripts. I also like to understand programming languages like Python and Go.  There is always music playing somewhere nearby, sometimes it is written by me, so music sometimes counts with programming. I can be called an inquisitive person, I like to explore new technologies, at the moment it's DevOps, Infrastructure as Code and everything related to it. Docker, Terraform, Ansible and so on...
 </div>
 <!--
 **vodin26/vodin26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
