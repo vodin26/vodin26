@@ -17,7 +17,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="Mysql" with="60" height="60" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" title="Prometheus" with="60" height="60" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" with="60" height="60" />&nbsp;
-          
+
+<h4>Stats:</h4>          
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vodin26&theme=apprentice)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vodin26&theme=apprentice)
