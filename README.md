@@ -4,7 +4,7 @@
 </div>
 <div id="body" align="center"> 
 <hr> 
-<h4>Languages & Tools:</h4>
+<h4 align="left">Languages & Tools:</h4>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" with="60" height="60" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" title="Bash" with="60" height="60" />&nbsp;
