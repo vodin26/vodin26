@@ -1,4 +1,4 @@
-## Hi! I'm Casper Vlad. 👋
+## Hi! I'm Vlad. 👋
 
 <!--
 **vodin26/vodin26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
