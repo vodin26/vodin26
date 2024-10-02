@@ -7,11 +7,11 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vodin26&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vodin26&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vodin26&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vodin26&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vodin26&theme=apprentice&utcOffset=8)
 <!--
 **vodin26/vodin26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 💬 I love writing code in bash
