@@ -1,6 +1,7 @@
 <div id="header" align="center"> 
 <h1>Hi! I'm Vladislav. 👋</h1>
 <h3>Linux administrator and a junior DevOps engineer from Moscow</h3>
+<div class="socializer" data-features="48px,squircle-2,opacity,fluid,icon-white,pad" data-meta-link="" data-meta-title="" data-sites="telegram" data-meta-telegram="https://t.me/vodin26"></div>
 </div>
 <!--
 **vodin26/vodin26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
