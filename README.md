@@ -2,6 +2,8 @@
 <h1>Hi! I'm Vladislav. 👋</h1>
 <h3>Linux administrator and a junior DevOps engineer from Moscow</h3>
 </div>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 <!--
 **vodin26/vodin26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 💬 I love writing code in bash
